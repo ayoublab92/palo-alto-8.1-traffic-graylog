@@ -1,4 +1,4 @@
-# palo-alto-8.1-graylog
+# palo-alto-8.1-traffic-graylog
 
 This is a content pack for Graylog that analyzes traffic from PanOS 8.1
 
